@@ -1,0 +1,43 @@
+vash-aktiv/
+├── index.html
+├── pages/
+│   ├── catalog.html
+│   ├── developers.html
+│   ├── services.html
+│   ├── about.html
+│   ├── contacts.html
+│   └── account.html
+├── css/
+│   ├── style.css
+│   ├── components/
+│   │   ├── header.css
+│   │   ├── footer.css
+│   │   ├── buttons.css
+│   │   ├── cards.css
+│   │   └── forms.css
+│   └── pages/
+│       ├── home.css
+│       ├── catalog.css
+│       ├── account.css
+│       └── responsive.css
+├── js/
+│   ├── main.js
+│   ├── modules/
+│   │   ├── api.js
+│   │   ├── auth.js
+│   │   ├── catalog.js
+│   │   ├── account.js
+│   │   └── utils.js
+│   └── data/
+│       ├── properties.js
+│       ├── developers.js
+│       └── user-data.js
+├── images/
+│   ├── logos/
+│   ├── properties/
+│   ├── developers/
+│   └── icons/
+├── assets/
+│   ├── fonts/
+│   └── docs/
+└── README.md
